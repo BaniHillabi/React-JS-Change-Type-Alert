@@ -38,9 +38,9 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      type: "danger",
-      header: "Mantap",
-      content: "Jiwa"
+      type: "success",
+      header: "React JS",
+      content: "Change Type Alert with React JS"
     }
   }
   // fungsi untuk mengubah tipe  
